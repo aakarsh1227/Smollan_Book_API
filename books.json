@@ -1,0 +1,20 @@
+[
+  { "id": 1, "title": "1984", "author": "George Orwell", "publication_year": 1949, "genre": "Dystopian", "isbn": "9780451524935" },
+  { "id": 2, "title": "To Kill a Mockingbird", "author": "Harper Lee", "publication_year": 1960, "genre": "Fiction", "isbn": "9780061120084" },
+  { "id": 3, "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "publication_year": 1925, "genre": "Novel", "isbn": "9780743273565" },
+  { "id": 4, "title": "Pride and Prejudice", "author": "Jane Austen", "publication_year": 1813, "genre": "Romance", "isbn": "9780141439518" },
+  { "id": 5, "title": "The Catcher in the Rye", "author": "J.D. Salinger", "publication_year": 1951, "genre": "Fiction", "isbn": "9780316769488" },
+  { "id": 6, "title": "Brave New World", "author": "Aldous Huxley", "publication_year": 1932, "genre": "Dystopian", "isbn": "9780060935467" },
+  { "id": 7, "title": "The Hobbit", "author": "J.R.R. Tolkien", "publication_year": 1937, "genre": "Fantasy", "isbn": "9780618260300" },
+  { "id": 8, "title": "Moby Dick", "author": "Herman Melville", "publication_year": 1851, "genre": "Adventure", "isbn": "9780140422689" },
+  { "id": 9, "title": "War and Peace", "author": "Leo Tolstoy", "publication_year": 1869, "genre": "Historical Fiction", "isbn": "9780140449136" },
+  { "id": 10, "title": "The Odyssey", "author": "Homer", "publication_year": 1450, "genre": "Epic Poetry", "isbn": "9780140449137" },
+  { "id": 11, "title": "The Brothers Karamazov", "author": "Fyodor Dostoevsky", "publication_year": 1880, "genre": "Philosophical Novel", "isbn": "9780140449138" },
+  { "id": 12, "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "publication_year": 1954, "genre": "Fantasy", "isbn": "9780618260301" },
+  { "id": 13, "title": "The Bible", "author": "Various Authors", "publication_year": 1450, "genre": "Religious", "isbn": "9780060606305" },
+  { "id": 14, "title": "The Quran", "author": "Muhammad", "publication_year": 1450, "genre": "Religious", "isbn": "9780895260910" },
+  { "id": 15, "title": "The Iliad", "author": "Homer", "publication_year": 1450, "genre": "Epic Poetry", "isbn": "9780140449139" },
+  { "id": 16, "title": "Don Quixote", "author": "Miguel de Cervantes", "publication_year": 1605, "genre": "Fiction", "isbn": "9780140449140" },
+  { "id": 17, "title": "The Divine Comedy", "author": "Dante Alighieri", "publication_year": 1450, "genre": "Epic Poetry", "isbn": "9780140449141" },
+  { "id": 18, "title": "One Hundred Years of Solitude", "author": "Gabriel García Márquez", "publication_year": 1967, "genre": "Magical Realism", "isbn": "9780060883287" }
+]
